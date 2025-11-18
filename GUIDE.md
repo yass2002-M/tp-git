@@ -1,1 +1,1 @@
-Base du guide
+Ligne conflictuelle: version main
